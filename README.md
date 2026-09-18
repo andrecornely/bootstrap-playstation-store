@@ -40,12 +40,6 @@ O projeto foi desenvolvido com foco no aprendizado de:
 - Modal de assinaturas
 - Layout adaptado para diferentes tamanhos de tela
 
-## 📸 Preview
-
-### Página principal
-
-A página apresenta uma interface inspirada em uma loja de jogos, com destaque para títulos esportivos.
-
 ## 📂 Estrutura do projeto
 
 ```text
